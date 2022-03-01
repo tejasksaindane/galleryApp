@@ -1,0 +1,31 @@
+.preview__container {
+  color: #57606f;
+  background: white;
+  width: 100vw;
+  height: min-content;
+  text-align: center;
+}
+.preview__title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.preview__heading {
+  padding-left: 30px;
+}
+.preview__cam {
+  padding-right: 30px;
+  color: #57606f;
+}
+.preview__img {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.preview__imgOne {
+  padding: 5px;
+  border-radius: 15px;
+}
